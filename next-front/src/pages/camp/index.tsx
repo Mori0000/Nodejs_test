@@ -5,7 +5,7 @@ const index = () => {
   return (
     <Center>
       <Text fontWeight={'bold'} color={'red'}>
-        pages下のページだよ！
+        camp下のページだよ！
       </Text>
     </Center>
   )
